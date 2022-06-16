@@ -2,8 +2,16 @@
   background-color: rgb(177, 177, 177);
   padding: 25px;
 }
+.inline-block-container {
+  background-color: rgb(160, 96, 96);
+  padding: 25px;
+}
 .post {
   background-color: snow;
   padding: 10px;
   border-radius: 7px;
+}
+.inline-block-container .post {
+  display: inline-block;
+  width: 30%;
 }
