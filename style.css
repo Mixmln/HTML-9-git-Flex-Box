@@ -5,10 +5,10 @@
   gap: 15px;
   /* Kryptis */
   flex-direction: row;
-  /* issidestymas pagrindine asimi */
+  /* issidestymas pagrindine asimi (ROW)*/
   /* justify-content: space-evenly; */
   justify-content: center;
-  /* idestymas statmena asimi */
+  /* idestymas statmena asimi (COL) */
   align-items: flex-end;
   align-items: center;
   align-items: baseline;
