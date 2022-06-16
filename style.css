@@ -6,8 +6,12 @@
   /* Kryptis */
   flex-direction: row;
   /* issidestymas pagrindine asimi */
-  justify-content: space-evenly;
+  /* justify-content: space-evenly; */
+  justify-content: center;
   /* idestymas statmena asimi */
+  align-items: flex-end;
+  align-items: center;
+  align-items: baseline;
   align-items: flex-start;
   /* flex-wrap: wrap; */
 }
