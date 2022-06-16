@@ -1,0 +1,9 @@
+.flex-container {
+  background-color: rgb(177, 177, 177);
+  padding: 25px;
+}
+.post {
+  background-color: snow;
+  padding: 10px;
+  border-radius: 7px;
+}
